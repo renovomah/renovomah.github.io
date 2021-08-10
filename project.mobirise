@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "renovomah",
-    "currentPage": "Layanan.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -64,7 +64,7 @@
       "settings": {
         "main": true,
         "title": "Beranda",
-        "meta_descr": "",
+        "meta_descr": "Renovomah - Jasa layanan renovasi rumah desain interior furniture dan lainnya",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -840,10 +840,10 @@
         }
       ]
     },
-    "Layanan.html": {
+    "layanan.html": {
       "settings": {
         "title": "Layanan",
-        "meta_descr": "",
+        "meta_descr": "Renovomah - Jasa layanan renovasi rumah desain interior furniture dan lainnya",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1606,10 +1606,10 @@
         }
       ]
     },
-    "Desain Interior.html": {
+    "desain-interior.html": {
       "settings": {
         "title": "Desain Interior",
-        "meta_descr": "",
+        "meta_descr": "Renovomah - Jasa layanan renovasi rumah desain interior furniture dan lainnya",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3119,10 +3119,10 @@
         }
       ]
     },
-    "Furniture.html": {
+    "furniture.html": {
       "settings": {
         "title": "Furniture",
-        "meta_descr": "",
+        "meta_descr": "Renovomah - Jasa layanan renovasi rumah desain interior furniture dan lainnya",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -4636,10 +4636,10 @@
         }
       ]
     },
-    "Renovasi.html": {
+    "renovasi.html": {
       "settings": {
         "title": "Renovasi",
-        "meta_descr": "",
+        "meta_descr": "Renovomah - Jasa layanan renovasi rumah desain interior furniture dan lainnya",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
